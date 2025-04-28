@@ -1,5 +1,5 @@
 # 🌱 **Mindful Growth - Demo** 📘
-
+https://mindfulgrowth.netlify.app/
 ## ✨ **Project Overview**
 
 **Mindful Growth** is a transformative guide for personal wellness, mindfulness practices, and self-discovery. This project aims to help users create lasting positive changes in their lives by blending ancient wisdom with modern science.
